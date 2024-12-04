@@ -1,0 +1,127 @@
+*{
+    padding: 0;
+    margin: 0;    
+}
+.header{
+    background-color: blue;
+}
+.header-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 40px;
+    height: 80px;
+    /* margin: 0 40px; */
+}
+.logo-img > img{
+    width: 90px;
+    margin-top: 85px;
+
+}
+
+.title h1{
+    font-size: 25px;
+    color: rgb(185 216 243);
+    font-family:  Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+ul{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-size: 13px; */
+    display: flex;
+    gap: 20px;
+}
+li{
+    list-style: none;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
+h2{
+    text-align: center;
+    color:  rgb(109, 180, 220);
+}
+
+.box{
+    box-shadow: 0px 9px 15px 5px #00000026;;
+    width: 400px;
+    height: 400px;
+    margin: 40px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px;
+    
+}
+.box > p > a{
+    color: blue;
+    text-decoration: underline;
+}
+
+button{
+    background-color: blue;
+  color: #fff;
+  margin: 10px;
+  padding: 15px;
+  width: 88px;
+  align-items: center;
+}
+/*  */ 
+
+.para{
+    display: flex;
+    font-size: larger;
+    
+}
+.p1{
+    margin-right: 200px;
+    align-items: center;
+    
+    
+    }
+    
+    .p2{
+         margin-right: 200px;
+        }
+        .container{
+            margin-top: 70px;
+            height: 2980px;
+        }
+
+        .governor{
+            font-size: 3.75rem;
+            color: blue;;
+        }
+        .Kamran{
+            font-size: 2.20rem;
+            color: blue;
+            margin-bottom: 25px;
+        }
+        .certified{
+            font-size: 2.95rem;
+            color:rgb(68, 173, 239);
+            margin-bottom: 15px;
+        }
+        img{
+            margin-right: 50px;
+        }
+
+        #h4{
+        
+            font-size: 50px;
+            color: blue ;
+        }
+
+        #big{
+            margin: 15px;
+         font-size: 25px;
+        }
+        .Box{
+            display: inline-flex;
+        }
+    
